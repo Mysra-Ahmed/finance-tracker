@@ -7,14 +7,14 @@ Add Transactions: Record income and expenses by category, type, amount, and date
 View Transactions: See all past transactions logged by the user.
 Intuitive UI: Built with Tkinter for simplicity and ease of use.
 ### How It Works 
-Login/ Register:
+##### Login/ Register:
 The user has to log in or register themself with a unique username and password to store their transactions.
-Add Transaction:
+##### Add Transaction:
 Select transaction type (Income/ Expense), category, amount, and date.
-View Transactions:
+##### View Transactions:
 See all the transactions recorded along with their type, category, amount, and date.
 Getting Started 
-Prerequisites
+### Prerequisites
 Have Python 3 present in your environment. No dependencies are required as the project uses only the standard Python libraries.
 
 ### Installation
