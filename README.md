@@ -1,5 +1,5 @@
-## Personal Finance Tracker\\
-The Personal Finance Tracker is a lightweight personal finance management application built in Python. It will be easy for users to record their income and expenses, list all their financial transactions, and maintain categories of spending. The application uses SQLite as the database and Tkinter for the user interface.\\
+## Personal Finance Tracker
+The Personal Finance Tracker is a lightweight personal finance management application built in Python. It will be easy for users to record their income and expenses, list all their financial transactions, and maintain categories of spending. The application uses SQLite as the database and Tkinter for the user interface.
 
 ### Features
 User Authentication: User registration and login with username and password.\\
@@ -18,6 +18,6 @@ Prerequisites
 Have Python 3 present in your environment. No dependencies are required as the project uses only the standard Python libraries.
 
 ### Installation
-Clone the repository or copy the project files.\\
-Run the script finance_tracker.py using Python:\\
+Clone the repository or copy the project files.//
+Run the script finance_tracker.py using Python://
 python finance_tracker.py
